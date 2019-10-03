@@ -1,16 +1,15 @@
 {
-    "name": "andrewlab/module-core",
-    "description": "",
+    "name": "ailyk/core",
+    "description": "ailyk core module",
     "type": "magento2-module",
     "license": "proprietary",
+    "version": "0.1.0",
     "authors": [
         {
-            "name": "Mage2Gen",
-            "email": "info@mage2gen.com"
+            "name": "ailyk",
+            "email": "ailykdev@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {},
     "autoload": {
         "files": [
             "registration.php"
@@ -20,3 +19,4 @@
         }
     }
 }
+
